@@ -1,0 +1,33 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Suite: stable
+Codename: bookworm
+Date: Thu, 18 Sep 2025 13:50:25 UTC
+Architectures: amd64
+Components: main
+MD5Sum:
+ e28d20542363406ddaa6e04b597b0099 413 main/binary-amd64/Packages
+ 632131a3be98eda00b67e63899782763 323 main/binary-amd64/Packages.gz
+ 82a1ae90445e5284617f8a8cc3a53fa4 52 main/binary-amd64/Release
+SHA1:
+ 8ab55d408bb494b20cf9c4a6a59f57e2aac337a9 413 main/binary-amd64/Packages
+ a0541f90089b89d7f24a953505351fa469255120 323 main/binary-amd64/Packages.gz
+ 9b61d92e2c42866227d305db51276f4714da5cd9 52 main/binary-amd64/Release
+SHA256:
+ efe34bfb3b212c37737e62b2f583bdbc21ec62a12d4baeeda8d558386073d298 413 main/binary-amd64/Packages
+ 00e84622303450e5e315d462ded2999dd5f1e3e5c8ef3b9a94077c189abdcc4b 323 main/binary-amd64/Packages.gz
+ 5d14a4f1b270a16b7797dfa013f0d0d3325c616762714c6e9a34295a4d9be351 52 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEETmJ3dTdkQDkF3GCIvEgGfIipL84FAmjMDicACgkQvEgGfIip
+L86QNQwAzzeM3VbBMfEHRxGSt2LQ2IiUAUT8RffmR76tJtl6hUHX7z0lGcZZ5SiU
+DubFlK2Qso7Swi92ay8y14QpgNIq1ghOaxqquENDlbovVSH/EvOmPQ/0ygWp6/n9
+tQvlVN6ys4uUl6P3VaX8F7XYt7Jc+o6gBcLlYaV3bfF0fb4/Z5LpthzY2q4lKi5k
+W9Gfq7FkAf7RECBte8i/HOUcHjBoVONUJWishVdS7YaUUdwqo/bZ0Phjo1U1sZri
+U2xrvII31b5QA7AUc3oixrWaYG+IlISjPdT/f1g0UIYhQL+Zu/6eDMCDztg1/thA
+2deiaMNYN3hgqUyMQq5FXOAff6l8ZoWmHyrZ86VcMiPCu0ZaJamlJr/P6/wTwbHS
+NQD0PcIu3QQu3DGBTH7BHgtARKwffKlbzjag2tl/J5zkln0JVEBTJ3UjWjDc862x
+8R1p8lFWqwtl6LveUPOvBqoFWF0kQvOeNufIz4moRz2kA7i5Ix/OS3rYA1mrj3ds
+hVibAqp5
+=CcAg
