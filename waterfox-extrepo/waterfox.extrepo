@@ -1,8 +1,9 @@
 # waterfox.extrepo
 ---
 Name: waterfox
-Description: Waterfox browser (community-built, privacy-focused Firefox fork)
+Description: Waterfox browser (Fast and Private web browser)
 Type: apt
+Signed-By: https://keys.openpgp.org/vks/v1/by-fingerprint/4E6277753764403905DC6088BC48067C88A92FCE
 URIs:
   - https://github.com/GitXpresso/LinuxPKG/releases/download/Waterfox/
 Suites:
