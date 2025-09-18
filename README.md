@@ -1,0 +1,2 @@
+# Waterfox-Extrepo
+Extrepo waterfox
