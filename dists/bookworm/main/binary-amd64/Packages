@@ -1,0 +1,12 @@
+Package: Waterfox
+Version: 6.6.3
+Architecture: all
+Maintainer: William Gwin <wg9797@outlook.com>
+Priority: optional
+Section: base
+Filename: pool/main/W/Waterfox/Waterfox_6.6.3_all.deb
+Size: 84179946
+SHA256: e06f12dff428a0e415737d0faf1c402dcf9d72d92b11d6be99cb9a50385dbef3
+SHA1: 46199af54dfd7ff7b4df5823e9c8f53f57b9b7ea
+MD5sum: a687d60e6eaf81c411e00b4e75e7415d
+Description:  Waterfox Fast and Private Web Browser
