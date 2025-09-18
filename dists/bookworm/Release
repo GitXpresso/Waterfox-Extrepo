@@ -1,0 +1,17 @@
+Suite: stable
+Codename: bookworm
+Date: Thu, 18 Sep 2025 13:50:25 UTC
+Architectures: amd64
+Components: main
+MD5Sum:
+ e28d20542363406ddaa6e04b597b0099 413 main/binary-amd64/Packages
+ 632131a3be98eda00b67e63899782763 323 main/binary-amd64/Packages.gz
+ 82a1ae90445e5284617f8a8cc3a53fa4 52 main/binary-amd64/Release
+SHA1:
+ 8ab55d408bb494b20cf9c4a6a59f57e2aac337a9 413 main/binary-amd64/Packages
+ a0541f90089b89d7f24a953505351fa469255120 323 main/binary-amd64/Packages.gz
+ 9b61d92e2c42866227d305db51276f4714da5cd9 52 main/binary-amd64/Release
+SHA256:
+ efe34bfb3b212c37737e62b2f583bdbc21ec62a12d4baeeda8d558386073d298 413 main/binary-amd64/Packages
+ 00e84622303450e5e315d462ded2999dd5f1e3e5c8ef3b9a94077c189abdcc4b 323 main/binary-amd64/Packages.gz
+ 5d14a4f1b270a16b7797dfa013f0d0d3325c616762714c6e9a34295a4d9be351 52 main/binary-amd64/Release
