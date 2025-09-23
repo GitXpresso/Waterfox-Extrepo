@@ -1,6 +1,6 @@
 [waterfox]
 name=Waterfox Browser
-baseurl=https://github.com/gitxpresso/linuxpkg/releases/download/lates
+baseurl=https://github.com/gitxpresso/linuxpkg/releases/download/Waterfox/
 enabled=1
 gpgcheck=1
-gpgkey=https://github.com/yourusername/yourrepo/releases/download/latest/Waterfox/gpg.key
+gpgkey=https://github.com/yourusername/yourrepo/releases/download/Waterfox/gpg.key
